@@ -5,9 +5,24 @@ Usuario: maquinasrojas
 Pass: r?AF$Ck+&LcUnv8
 Pin: 1862
 
+
+Usuario sql
+Usuario: btc73hwuspi4
+Pass: r?AF$Ck+&LcUn8
+
+
+
 -------------------
 
 -- BlueCloud--
 usuario : taddibri
 pass: victor90
 ------------------------
+
+-- Maquinas Rojas --
+
+Maquinas2018 — contraseñaCertificado p12 productivo para push productivo
+Maquinas2018 — contraseñaCertificado p12 productivo para productivo
+Usuario: maquinasrojasmorelia@gmail.com
+Pass: "7F4<f!%WM
+--- --- -- -- --
